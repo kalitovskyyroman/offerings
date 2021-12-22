@@ -1,0 +1,204 @@
+{
+    featured: {
+        "title": "offering new some one",
+        "featured": true,
+        "exclusive": false,
+        "offeringStatus": 2,
+        "investmentStructure": 1
+    },
+    dst: [
+        {
+            "title": "offering new some one111",
+            "featured": false,
+            "exclusive": true,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one2",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one3",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one4",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one5",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one6",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one7",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one8",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one9",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        }
+    ],
+    tic: [
+        {
+            "title": "offering new some one111",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one2",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one3",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one4",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one5",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one6",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one7",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one8",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one9",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        }
+    ],
+    qof: [
+        {
+            "title": "offering new some one111",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one2",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one3",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one4",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one5",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one6",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one7",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one8",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        },
+        {
+            "title": "offering new some one9",
+            "featured": false,
+            "exclusive": false,
+            "offeringStatus": 2,
+            "investmentStructure": 1
+        }
+    ]
+}

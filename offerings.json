@@ -1,12 +1,12 @@
 {
-    featured: {
+    "featured": {
         "title": "offering new some one",
         "featured": true,
         "exclusive": false,
         "offeringStatus": 2,
         "investmentStructure": 1
     },
-    dst: [
+    "dst": [
         {
             "title": "offering new some one111",
             "featured": false,
@@ -71,7 +71,7 @@
             "investmentStructure": 1
         }
     ],
-    tic: [
+    "tic": [
         {
             "title": "offering new some one111",
             "featured": false,
@@ -136,7 +136,7 @@
             "investmentStructure": 1
         }
     ],
-    qof: [
+    "qof": [
         {
             "title": "offering new some one111",
             "featured": false,
